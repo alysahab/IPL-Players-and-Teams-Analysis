@@ -10,9 +10,9 @@ This comprehensive project integrates data analysis conducted in a Python notebo
 
 2. **Consolidation into CSV Dataset:** All insights are consolidated into a single CSV dataset, facilitating seamless integration into Power BI for visualization.
 
-3. **Power BI Dashboard Creation:** Leveraging Power BI, a dynamic dashboard is crafted to visualize primary and secondary insights, providing stakeholders with an interactive and comprehensive overview of IPL performance metrics.
+3. **Power BI Dashboard Creation:** Leveraging Power BI, a dynamic dashboard is crafted to visualize primary and secondary insights, providing stakeholders with an interactive and comprehensive overview of IPL performance metrics. [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjlkODEwMzgtOGU4Ny00ZTQ2LWE1ZGMtZTQwODdiOTgwMGJkIiwidCI6ImQ3NTVkZWIwLTFkNTgtNGFkNS05MDg5LTYyYzU5ZmU4MzdmOCIsImMiOjl9)
 
-4. **PowerPoint Presentation:** Finally, the insights and findings are summarized and presented in a PowerPoint presentation, enhancing understanding and engagement with the analysis results.
+4. **PowerPoint Presentation:** Finally, the insights and findings are summarized and presented in a PowerPoint presentation, enhancing understanding and engagement with the analysis results. [PowerPoint](https://1drv.ms/p/s!AjVn3-bsDfg4iU2OOfQv_G796yqt?e=qLgQhz)
 
 ## Key Deliverables
 - **Python Notebook:** Detailed analysis and insights derived using Python.
